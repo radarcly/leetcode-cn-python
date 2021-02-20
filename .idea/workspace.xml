@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ba1771e-eeca-42f2-9096-e3f8ec1f4c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1004.最大连续1的个数 3/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1004.最大连续1的个数 3/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1004.最大连续1的个数 3/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613797607644</updated>
       <workItem from="1613797608806" duration="904000" />
-      <workItem from="1613799188464" duration="690000" />
+      <workItem from="1613799188464" duration="896000" />
     </task>
     <servers />
   </component>
