@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ba1771e-eeca-42f2-9096-e3f8ec1f4c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/395.至少有K个重复字符的最长子串/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/896.单调数列/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/896.单调数列/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/896.单调数列/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/303.区域和检索-数组不可变/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/303.区域和检索-数组不可变/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/303.区域和检索-数组不可变/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,6 +25,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\coding software\pycharm\pyproject\leetcode-cn-python\303.区域和检索-数组不可变" />
       <recent name="D:\coding software\pycharm\pyproject\leetcode-cn-python\1438.绝对值不超过限制的最长连续子数组" />
     </key>
   </component>
@@ -184,7 +184,8 @@
       <workItem from="1614220778854" duration="672000" />
       <workItem from="1614308330460" duration="6692000" />
       <workItem from="1614388854039" duration="6676000" />
-      <workItem from="1614485950602" duration="720000" />
+      <workItem from="1614485950602" duration="752000" />
+      <workItem from="1614564202270" duration="2925000" />
     </task>
     <task id="LOCAL-00001" summary="2021.2.21">
       <created>1613878431916</created>
@@ -228,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614319714765</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2021.2.28">
+      <created>1614486679296</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614486679296</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,7 +262,8 @@
     <MESSAGE value="2021.2.24" />
     <MESSAGE value="2021.2.25" />
     <MESSAGE value="2021.2.26" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.2.26" />
+    <MESSAGE value="2021.2.28" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.2.28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
