@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ba1771e-eeca-42f2-9096-e3f8ec1f4c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/300.最长递增子序列/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/300.最长递增子序列/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/300.最长递增子序列/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/354.俄罗斯套娃信封问题/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/354.俄罗斯套娃信封问题/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/354.俄罗斯套娃信封问题/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/354.俄罗斯套娃信封问题/answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/354.俄罗斯套娃信封问题/answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/354.俄罗斯套娃信封问题/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/354.俄罗斯套娃信封问题/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/354.俄罗斯套娃信封问题/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/354.俄罗斯套娃信封问题/solution.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -194,7 +191,7 @@
       <workItem from="1614734960157" duration="3985000" />
       <workItem from="1614746481375" duration="2923000" />
       <workItem from="1614819672328" duration="4701000" />
-      <workItem from="1614829707785" duration="2430000" />
+      <workItem from="1614829707785" duration="3850000" />
     </task>
     <task id="LOCAL-00001" summary="2021.2.21">
       <created>1613878431916</created>
@@ -266,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614749448820</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2021.3.4">
+      <created>1614832307128</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614832307128</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +300,8 @@
     <MESSAGE value="2021.3.1" />
     <MESSAGE value="2021.3.2" />
     <MESSAGE value="2021.3.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.3.3" />
+    <MESSAGE value="2021.3.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.3.4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
