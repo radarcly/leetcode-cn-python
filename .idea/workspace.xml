@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ba1771e-eeca-42f2-9096-e3f8ec1f4c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/232.用栈实现队列/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/232.用栈实现队列/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/232.用栈实现队列/solution.py" afterDir="false" />
+    <list default="true" id="2ba1771e-eeca-42f2-9096-e3f8ec1f4c4c" name="Default Changelist" comment="2021.3.5">
+      <change afterPath="$PROJECT_DIR$/225.用队列实现栈/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/225.用队列实现栈/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/225.用队列实现栈/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/503.下一个更大元素2/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/503.下一个更大元素2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/503.下一个更大元素2/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution (2)">
+  <component name="RunManager" selected="Python.answer">
     <configuration name="answer (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-cn-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-cn-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,12 +97,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/338.比特位计数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/503.下一个更大元素2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/338.比特位计数/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/503.下一个更大元素2/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.answer (3)" />
         <item itemvalue="Python.answer (2)" />
         <item itemvalue="Python.solution" />
-        <item itemvalue="Python.solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +195,9 @@
       <workItem from="1614746481375" duration="2923000" />
       <workItem from="1614819672328" duration="4701000" />
       <workItem from="1614829707785" duration="5020000" />
-      <workItem from="1614909713286" duration="1538000" />
+      <workItem from="1614909713286" duration="2098000" />
+      <workItem from="1614915000493" duration="3324000" />
+      <workItem from="1614996055657" duration="2246000" />
     </task>
     <task id="LOCAL-00001" summary="2021.2.21">
       <created>1613878431916</created>
@@ -279,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614833656205</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2021.3.5">
+      <created>1614911320906</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1614911320906</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +321,8 @@
     <MESSAGE value="2021.3.2" />
     <MESSAGE value="2021.3.3" />
     <MESSAGE value="2021.3.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.3.4" />
+    <MESSAGE value="2021.3.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.3.5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -340,8 +352,8 @@
     <SUITE FILE_PATH="coverage/leetcode_cn_python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1614312113445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1178.猜字谜" />
     <SUITE FILE_PATH="coverage/leetcode_cn_python$answer__1_.coverage" NAME="answer (1) Coverage Results" MODIFIED="1614739212671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/338.比特位计数" />
     <SUITE FILE_PATH="coverage/leetcode_cn_python$solution.coverage" NAME="solution Coverage Results" MODIFIED="1614825823725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/354.俄罗斯套娃信封问题" />
-    <SUITE FILE_PATH="coverage/leetcode_cn_python$answer.coverage" NAME="answer Coverage Results" MODIFIED="1614739103246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/304.二维区域和检索-矩阵不可变" />
     <SUITE FILE_PATH="coverage/leetcode_cn_python$solution__1_.coverage" NAME="solution (1) Coverage Results" MODIFIED="1614740242195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/338.比特位计数" />
+    <SUITE FILE_PATH="coverage/leetcode_cn_python$answer.coverage" NAME="answer Coverage Results" MODIFIED="1614996346250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/503.下一个更大元素2" />
     <SUITE FILE_PATH="coverage/leetcode_cn_python$answer__3_.coverage" NAME="answer (3) Coverage Results" MODIFIED="1614831116654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/300.最长递增子序列" />
   </component>
 </project>
