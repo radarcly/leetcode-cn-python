@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ba1771e-eeca-42f2-9096-e3f8ec1f4c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1047.删除字符串中的所有相邻重复项/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1047.删除字符串中的所有相邻重复项/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/132.分割回文串2/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/132.分割回文串2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/132.分割回文串2/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/224.基本计算器/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/224.基本计算器/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/224.基本计算器/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1047.删除字符串中的所有相邻重复项/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/1047.删除字符串中的所有相邻重复项/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer (4)">
+  <component name="RunManager" selected="Python.test">
     <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-cn-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,28 +60,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/131.分割回文串/answer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="answer (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode-cn-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/300.最长递增子序列" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/300.最长递增子序列/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,13 +134,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-cn-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.answer (4)" />
         <item itemvalue="Python.answer (1)" />
         <item itemvalue="Python.answer" />
         <item itemvalue="Python.solution (2)" />
-        <item itemvalue="Python.answer (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +200,8 @@
       <workItem from="1614915000493" duration="3324000" />
       <workItem from="1614996055657" duration="2872000" />
       <workItem from="1615085439736" duration="2145000" />
-      <workItem from="1615260800945" duration="3238000" />
+      <workItem from="1615260800945" duration="3967000" />
+      <workItem from="1615338917851" duration="8406000" />
     </task>
     <task id="LOCAL-00001" summary="2021.2.21">
       <created>1613878431916</created>
@@ -302,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615086974790</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2021.3.9">
+      <created>1615266448120</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1615266448120</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,7 +349,8 @@
     <MESSAGE value="2021.3.5" />
     <MESSAGE value="2021.3.6" />
     <MESSAGE value="2021.3.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.3.7" />
+    <MESSAGE value="2021.3.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.3.9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -361,7 +375,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode_cn_python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1613877345373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1438.绝对值不超过限制的最长连续子数组" />
     <SUITE FILE_PATH="coverage/leetcode_cn_python$answer__4_.coverage" NAME="answer (4) Coverage Results" MODIFIED="1615266411295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1047.删除字符串中的所有相邻重复项" />
-    <SUITE FILE_PATH="coverage/leetcode_cn_python$test.coverage" NAME="test Coverage Results" MODIFIED="1613877485644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1438.绝对值不超过限制的最长连续子数组" />
+    <SUITE FILE_PATH="coverage/leetcode_cn_python$test.coverage" NAME="test Coverage Results" MODIFIED="1615363375227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_cn_python$answer__2_.coverage" NAME="answer (2) Coverage Results" MODIFIED="1614827121121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/354.俄罗斯套娃信封问题" />
     <SUITE FILE_PATH="coverage/leetcode_cn_python$solution__2_.coverage" NAME="solution (2) Coverage Results" MODIFIED="1614832252889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/300.最长递增子序列" />
     <SUITE FILE_PATH="coverage/leetcode_cn_python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1614312113445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1178.猜字谜" />
