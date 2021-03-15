@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ba1771e-eeca-42f2-9096-e3f8ec1f4c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/59.螺旋矩阵2/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/59.螺旋矩阵2/readme.md" afterDir="false" />
+    <list default="true" id="2ba1771e-eeca-42f2-9096-e3f8ec1f4c4c" name="Default Changelist" comment="2021.3.15">
+      <change afterPath="$PROJECT_DIR$/705.设计哈希集合/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/705.设计哈希集合/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/705.设计哈希集合/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -200,7 +201,7 @@
       <workItem from="1615371923658" duration="522000" />
       <workItem from="1615427174794" duration="1715000" />
       <workItem from="1615641663770" duration="516000" />
-      <workItem from="1615788789704" duration="3419000" />
+      <workItem from="1615788789704" duration="5122000" />
     </task>
     <task id="LOCAL-00001" summary="2021.2.21">
       <created>1613878431916</created>
@@ -342,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615791799960</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2021.3.15">
+      <created>1615792809134</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1615792809134</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
