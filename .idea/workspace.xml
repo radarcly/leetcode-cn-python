@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ba1771e-eeca-42f2-9096-e3f8ec1f4c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/54.螺旋矩阵/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/54.螺旋矩阵/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/54.螺旋矩阵/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59.螺旋矩阵2/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59.螺旋矩阵2/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/227.基本计算器2/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/227.基本计算器2/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/227.基本计算器2/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/227.基本计算器2/solution.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +40,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer">
+  <component name="RunManager" selected="Python.answer (1)">
+    <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-cn-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/59.螺旋矩阵2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/59.螺旋矩阵2/answer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="answer (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-cn-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,28 +77,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/224.基本计算器/answer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="answer (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode-cn-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1047.删除字符串中的所有相邻重复项" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1047.删除字符串中的所有相邻重复项/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer (1)" />
         <item itemvalue="Python.answer" />
         <item itemvalue="Python.solution" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.answer (2)" />
-        <item itemvalue="Python.answer (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +200,7 @@
       <workItem from="1615371923658" duration="522000" />
       <workItem from="1615427174794" duration="1715000" />
       <workItem from="1615641663770" duration="516000" />
-      <workItem from="1615788789704" duration="2515000" />
+      <workItem from="1615788789704" duration="3419000" />
     </task>
     <task id="LOCAL-00001" summary="2021.2.21">
       <created>1613878431916</created>
@@ -338,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615371683261</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="2021.3.15">
+      <created>1615791799960</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1615791799960</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,7 +378,8 @@
     <MESSAGE value="2021.3.7" />
     <MESSAGE value="2021.3.9" />
     <MESSAGE value="2021.3.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.3.10" />
+    <MESSAGE value="2021.3.15" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.3.15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -403,7 +408,7 @@
     <SUITE FILE_PATH="coverage/leetcode_cn_python$solution__2_.coverage" NAME="solution (2) Coverage Results" MODIFIED="1614832252889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/300.最长递增子序列" />
     <SUITE FILE_PATH="coverage/leetcode_cn_python$answer__2_.coverage" NAME="answer (2) Coverage Results" MODIFIED="1615365897726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/224.基本计算器" />
     <SUITE FILE_PATH="coverage/leetcode_cn_python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1614312113445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1178.猜字谜" />
-    <SUITE FILE_PATH="coverage/leetcode_cn_python$answer__1_.coverage" NAME="answer (1) Coverage Results" MODIFIED="1615086294591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/131.分割回文串" />
+    <SUITE FILE_PATH="coverage/leetcode_cn_python$answer__1_.coverage" NAME="answer (1) Coverage Results" MODIFIED="1615792574430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/59.螺旋矩阵2" />
     <SUITE FILE_PATH="coverage/leetcode_cn_python$solution.coverage" NAME="solution Coverage Results" MODIFIED="1615789975106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/54.螺旋矩阵" />
     <SUITE FILE_PATH="coverage/leetcode_cn_python$solution__1_.coverage" NAME="solution (1) Coverage Results" MODIFIED="1614740242195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/338.比特位计数" />
     <SUITE FILE_PATH="coverage/leetcode_cn_python$answer.coverage" NAME="answer Coverage Results" MODIFIED="1615790429608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/54.螺旋矩阵" />
