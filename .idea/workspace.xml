@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ba1771e-eeca-42f2-9096-e3f8ec1f4c4c" name="Default Changelist" comment="2021.3.15">
-      <change afterPath="$PROJECT_DIR$/705.设计哈希集合/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/705.设计哈希集合/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/705.设计哈希集合/solution.py" afterDir="false" />
+    <list default="true" id="2ba1771e-eeca-42f2-9096-e3f8ec1f4c4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/191.位1的个数/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/191.位1的个数/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/191.位1的个数/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/706.设计哈希映射/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/706.设计哈希映射/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/706.设计哈希映射/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/59.螺旋矩阵2/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/59.螺旋矩阵2/solution.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -201,7 +205,11 @@
       <workItem from="1615371923658" duration="522000" />
       <workItem from="1615427174794" duration="1715000" />
       <workItem from="1615641663770" duration="516000" />
-      <workItem from="1615788789704" duration="5122000" />
+      <workItem from="1615788789704" duration="6016000" />
+      <workItem from="1615811515310" duration="613000" />
+      <workItem from="1615869083801" duration="1364000" />
+      <workItem from="1615966128206" duration="937000" />
+      <workItem from="1616390208990" duration="2769000" />
     </task>
     <task id="LOCAL-00001" summary="2021.2.21">
       <created>1613878431916</created>
@@ -350,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615792809134</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2021.3.13 设计哈希集合">
+      <created>1615794870738</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1615794870738</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,7 +402,8 @@
     <MESSAGE value="2021.3.9" />
     <MESSAGE value="2021.3.10" />
     <MESSAGE value="2021.3.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.3.15" />
+    <MESSAGE value="2021.3.13 设计哈希集合" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.3.13 设计哈希集合" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
