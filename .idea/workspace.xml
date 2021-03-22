@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ba1771e-eeca-42f2-9096-e3f8ec1f4c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/191.位1的个数/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/191.位1的个数/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/191.位1的个数/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/706.设计哈希映射/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/706.设计哈希映射/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/706.设计哈希映射/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/461.汉明距离/answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/461.汉明距离/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/461.汉明距离/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/59.螺旋矩阵2/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/59.螺旋矩阵2/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191.位1的个数/answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/191.位1的个数/answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/191.位1的个数/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/191.位1的个数/solution.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -209,7 +207,7 @@
       <workItem from="1615811515310" duration="613000" />
       <workItem from="1615869083801" duration="1364000" />
       <workItem from="1615966128206" duration="937000" />
-      <workItem from="1616390208990" duration="2769000" />
+      <workItem from="1616390208990" duration="3653000" />
     </task>
     <task id="LOCAL-00001" summary="2021.2.21">
       <created>1613878431916</created>
@@ -365,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615794870738</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="2021.3.22 191.位1的个数">
+      <created>1616393080567</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1616393080568</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,7 +408,8 @@
     <MESSAGE value="2021.3.10" />
     <MESSAGE value="2021.3.15" />
     <MESSAGE value="2021.3.13 设计哈希集合" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021.3.13 设计哈希集合" />
+    <MESSAGE value="2021.3.22 191.位1的个数" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.3.22 191.位1的个数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -421,6 +427,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/304.二维区域和检索-矩阵不可变/answer.py</url>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/191.位1的个数/answer.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

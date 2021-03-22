@@ -1,3 +1,4 @@
+### 方法二 位运算优化
 class Solution:
     def hammingWeight(self, n: int) -> int:
         ret = 0

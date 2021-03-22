@@ -1,3 +1,4 @@
+### 方法一 循环检查二进制位
 class Solution:
     def hammingWeight(self, n: int) -> int:
         ret = 0
